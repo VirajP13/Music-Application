@@ -160,12 +160,12 @@ nav{
 
     .songitemscontainer{
         margin: 15px 0px;
-        height: 320px;
+        height: 300px;
         overflow-y: scroll;
     }
     .container-2{
         background-color: rgba(0, 0, 0,0.5);  
-        height: 410px;
+        height: 400px;
         width: 75vw;
         padding: 30px;
         border-radius: 10px;
